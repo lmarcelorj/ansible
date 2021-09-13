@@ -1,0 +1,5 @@
+[ansibleserver]
+ansible
+
+[dbserver]
+centos
